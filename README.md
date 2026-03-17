@@ -42,3 +42,22 @@
 <img src="https://github.com/krukVandal/Tms-Terminal_Cron-Daemon/blob/main/Daemon/10.png?raw=true" />
 
 
+#Задача: Создать Cron(Раз в месяц в 16.00)
+
+1. Создал маленький исполняющий bash (sudo apt clean)
+
+
+
+2. Открыл файл в crontab командой crontab -e и создал скрипт
+
+
+
+3. Для наглядности вывожу каждую минуту в файл Clean.txt
+
+
+
+4. По заданию если раз в месяц в 16.00
+
+
+
+
