@@ -46,18 +46,18 @@
 
 1. Создал маленький исполняющий bash (sudo apt clean)
 
-
+<img src="https://github.com/krukVandal/Tms-Terminal_Cron-Daemon/blob/main/Cron/1.png?raw=true" />
 
 2. Открыл файл в crontab командой crontab -e и создал скрипт
 
-
+<img src="https://github.com/krukVandal/Tms-Terminal_Cron-Daemon/blob/main/Cron/2.png?raw=true" />
 
 3. Для наглядности вывожу каждую минуту в файл Clean.txt
 
+<img src="https://github.com/krukVandal/Tms-Terminal_Cron-Daemon/blob/main/Cron/3.png?raw=true" />
 
+4. По заданию раз в месяц в 16.00
 
-4. По заданию если раз в месяц в 16.00
-
-
+<img src="https://github.com/krukVandal/Tms-Terminal_Cron-Daemon/blob/main/Cron/4.png?raw=true" />
 
 
